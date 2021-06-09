@@ -1,2 +1,2 @@
 # SketchaEtch
-A simple we based etch a sketch
+A simple web based etch a sketch
